@@ -180,6 +180,3 @@ This project is primarily for educational purposes. However, contributions that 
 3. Commit your changes (`git commit -am 'Add some improvement'`)
 4. Push to the branch (`git push origin feature/improvement`)
 5. Create a Pull Request
----
-
-**Note**: This project demonstrates fundamental computer science concepts and is designed for educational use in academic settings.
