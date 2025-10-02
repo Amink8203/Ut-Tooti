@@ -51,7 +51,6 @@ struct USER_INFO {
 - **`func.c`**: Utility functions for string manipulation and input validation
 - **`func.h`**: Header file for utility functions
 - **`Description/CA3_Description.pdf`**: Project requirements and specifications
-- **`Data structures&Algorithm.pdf`**: Reference material
 
 ## ⚡ Key Features & Implementation
 
